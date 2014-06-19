@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## These functions together store a matrix calculate its inverse and
+## cache it for further uses.
 
 ## This function stores four functions that works on the matrix x
 ##in a list that is returned when the function is called to create
